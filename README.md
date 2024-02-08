@@ -27,5 +27,3 @@ The output of the project includes predictive models comparing the predicted and
 ## Conclusion
 
 The Hypertrophic Cardiomyopathy Drug Discovery Project demonstrates the application of computational drug discovery methods in identifying potential therapeutic compounds for treating hypertrophic cardiomyopathy. By leveraging data analysis techniques, molecular descriptors calculation, and machine learning algorithms, this project contributes to the ongoing efforts in drug discovery and personalized medicine.
-
-For further insights and understanding, explore the code and experiment with different datasets and machine learning algorithms. Happy drug discovery journey!
